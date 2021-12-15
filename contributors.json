@@ -5,7 +5,8 @@
         "discordId":<str>,
         "discordName":<str>,
         "twitterId":<str>,
-        "gdocsId":<str>
+        "gdocsId":<str>,
+        "email":<str>
         }
     }
     
