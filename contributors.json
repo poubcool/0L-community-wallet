@@ -1,12 +1,12 @@
-{"account":<account>,
+{"account":"527ba6f888b32bb55d153fbce9219cc7",
     "type":0,
     "details":{
-        "githubId":<str>,
-        "discordId":<str>,
-        "discordName":<str>,
-        "twitterId":<str>,
-        "gdocsId":<str>,
-        "email":<str>
+        "githubId":"poubcool",
+        "discordId":"359746583962714114",
+        "discordName":"Alter#8604",
+        "twitterId":"TheClocksmith",
+        "gdocsId":"aehscfr@gmail.com",
+        "email":"aehscfr@gmail.com"
         }
     }
     
